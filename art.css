@@ -6,45 +6,30 @@ body{
     color: #ffffff;
     background-color: rgb(247, 247, 247);
 }
-h1{
-    color: rgb(18, 78, 6);
-    
-}
-p{
-     color: rgb(18, 78, 6);
-}
-ul{
-    color: rgb(18, 78, 6);
-}
+
 li{
     font-size: 30px;
-    color: rgb(131, 6, 6);
 }
 .analog{
     font-size: 20px;
-    color: rgb(18, 78, 6);
-    
 }
 .Key{
     font-size: 25px;
+}
+.lol{
     color: rgb(18, 78, 6);
 }
-h2{
-    color: rgb(131, 6, 6);
-}
+
 .dont{
     background-color: darkred;
 }
 table{
-    color: rgb(18, 78, 6);
     border: 1px solid;
 }
 th, td {
   border: 1px solid
 }
-h3{
-     color: rgb(18, 78, 6);
-}
+
 .image-container {
   position: relative;
   display: inline-block;
