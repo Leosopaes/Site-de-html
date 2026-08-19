@@ -1,10 +1,12 @@
-# Site de HTML
+# Site de Terror
 
 Site desenvolvido como parte de uma atividade de um curso de HTML, CSS e JavaScript.
 
 ## Sobre o projeto
 
-O projeto foi desenvolvido para colocar em prática os conceitos aprendidos durante o curso, utilizando HTML para estruturar a página, CSS para trabalhar a aparência e o layout, e JavaScript para adicionar interações ao site.
+O projeto consiste em um site com temática de terror, desenvolvido com o objetivo de colocar em prática os conceitos aprendidos durante o curso.
+
+A proposta foi criar uma página com uma identidade visual relacionada ao tema, utilizando HTML para estruturar o conteúdo, CSS para estilizar a página e JavaScript para adicionar interações.
 
 ## Tecnologias utilizadas
 
